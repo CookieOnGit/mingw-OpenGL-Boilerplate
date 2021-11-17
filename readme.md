@@ -15,4 +15,4 @@ And then
     .\main.exe
 ```
 Have Fun coding
-(OpenGL Tutorial)[https://learnopengl.com]
+("OpenGL Tutorial")[https://learnopengl.com]
